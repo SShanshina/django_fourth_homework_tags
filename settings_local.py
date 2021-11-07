@@ -1,4 +1,4 @@
-SECRET_KEY = 'b0e@^m&tccz11$w59qov$lhn-97!(%wfn-gray-c*x)^a$wx=2'
+SECRET_KEY = '.....'
 
 DATABASES = {
     'default': {
